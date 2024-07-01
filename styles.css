@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max: width 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(160, 58, 11);
+    background-color: aqua;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+.highlight {
+    color: darkmagenta;
+}
+
+.box {
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: darkorange;
+
+}
